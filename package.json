@@ -1,6 +1,7 @@
 {
   "name": "intro-to-cicd",
   "version": "1.0.0",
+  "homepage": ".",
   "description": "",
   "main": "index.js",
   "scripts": {
